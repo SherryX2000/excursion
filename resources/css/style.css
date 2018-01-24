@@ -1,4 +1,31 @@
-h1{
+*{
   font-family: Verdana;
-  
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+.heading{
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.subtitle{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p{
+  font-size: 21px;
+  color: grey;
+}
+
+.link{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+#copyright{
+  text-align: right;
+  color: grey;
 }
